@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  open-electrons-monitoring:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-02-04T09:55:21.875585241-05:00"
+    description: A Helm chart for Kubernetes
+    digest: efd436644fc3f8a2b4d4f9140b68b9849db441d735e2c6829dd3f501b80a0526
+    name: open-electrons-monitoring
+    type: application
+    urls:
+    - open-electrons-monitoring-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-02-04T09:55:21.875292558-05:00"
